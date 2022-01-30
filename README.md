@@ -12,7 +12,7 @@
 - ⚡ Hobby: Watching movies sometimes!!
 
 ### Connect with me:
-[<img align="left" alt="Sakibhasan | Twitter" width="22px" src="https://twitter.com/SakibHa99569289" />][twitter]
+[<img  align="left" alt="Sakibhasan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg>][twitter]
 [<img align="left" alt="Sakibhasan | LinkedIn" width="22px" src="https://www.linkedin.com/in/sakib-hasan-9219821b5/" />][linkedin]
 [<img align="left" alt="Sakibhasan | Instagram" width="22px" src="https://www.instagram.com/sakib_inside/" />][instagram]
 [<img align="left" alt="Sakibhasan | Facebook" width="22px" src="https://www.facebook.com/profile.php?id=100033044851198" />][facebook]
