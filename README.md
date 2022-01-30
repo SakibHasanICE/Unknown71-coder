@@ -13,9 +13,8 @@
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sakibhasan | LinkedIn" width="22px" src="https://www.linkedin.com/in/sakib-hasan-9219821b5/" />][linkedin]
-[<img align="left" alt="Sakibhasan | Instagram" width="22px" src="https://www.instagram.com/sakib_inside/" />][instagram]
-[<img align="left" alt="Sakibhasan | Facebook" width="22px" src="https://www.facebook.com/profile.php?id=100033044851198" />][facebook]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 </br>
 
 ![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakibhasan&show_icons=true&theme=radical)
