@@ -16,14 +16,15 @@
 [<img align="left" alt="Sakibhasan | LinkedIn" width="22px" src="https://www.linkedin.com/in/sakib-hasan-9219821b5/" />][linkedin]
 [<img align="left" alt="Sakibhasan | Instagram" width="22px" src="https://www.instagram.com/sakib_inside/" />][instagram]
 [<img align="left" alt="Sakibhasan | Facebook" width="22px" src="https://www.facebook.com/profile.php?id=100033044851198" />][facebook]
-<br />
-<details>
-  <summary>:zap: GitHub Stats</summary>
+</br>
 
-  <img align="left" alt="Unknown71-coder's GitHub Stats" src="https://github-readme-stats.Unknown71-coder.vercel.app/api?username=Unknown71-coder&show_icons=true&hide_border=true" />
-
-</details>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unknown71-coder
+ &theme=radical)
 [twitter]: https://twitter.com/SakibHa99569289
+</br>
 [instagram]: https://www.instagram.com/sakib_inside/
+</br>
 [linkedin]: https://www.linkedin.com/in/sakib-hasan-9219821b5/
+</br>
 [facebook]: https://www.facebook.com/profile.php?id=100033044851198
+</br>
