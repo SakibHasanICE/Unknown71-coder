@@ -18,8 +18,7 @@
 ![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakibhasan&show_icons=true&theme=radical)
  </br>
  ### Connect with me:
-[twitter]: https://twitter.com/SakibHa99569289
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" >]
+[twitter]: https://twitter.com/SakibHa99569289[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" >]
 </br>
 [instagram]: https://www.instagram.com/sakib_inside/
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" >]
